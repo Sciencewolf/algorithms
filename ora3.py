@@ -52,4 +52,3 @@ if __name__ == '__main__':
     a = [1, 3, 2, 4, 5, 5, 1, 2]
 
     bubble_sort(a)
-    print(a)
